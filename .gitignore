@@ -1,0 +1,24 @@
+# Visual Studio temporary files
+.vs/
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+packages/
+
+# Temporary or cache files
+*.log
+*.tmp
+*.cache
+
+# System files
+Thumbs.db
+Desktop.ini
